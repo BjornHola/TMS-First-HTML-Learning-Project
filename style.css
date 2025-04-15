@@ -19,6 +19,10 @@ html, body {
   left: auto;
 }
 
+.main-content {
+  margin: 0 auto;
+}
+
 .introduce-feature {
   display: inline-block;
   margin-left: 60px;
@@ -77,23 +81,12 @@ html, body {
 }
 
 .introduce-feature__button {
+  display: inline-block;
   margin-top: 50px;
   width: 270px;
   height: 60px;
   top: auto;
   left: auto;
-}
-
-.introduce-feature__button_red {
-  background-color: rgba(227, 69, 69, 0.897);
-}
-
-.introduce-feature__button-name {
-  display: inline-block;
-  width: 100px;
-  height: 20px;
-  top: 20px;
-  left: 85px;
   font-family: Open Sans;
   font-weight: 600px;
   font-size: 18px;
@@ -103,6 +96,7 @@ html, body {
   vertical-align: middle;
   text-transform: capitalize;
   color: #FFFFFF;
+  background-color: rgba(227, 69, 69, 0.897)
 }
 
 .introduce-feature__image {
