@@ -12,11 +12,10 @@ html, body {
 }
 
 .section-top {
-  
   padding: 60px 50px;
   width: 100%;
   max-width: 100%;
-  height: 100%;
+  /* height: 100%; */
   top: auto;
   left: auto;
 }
@@ -119,7 +118,7 @@ html, body {
 .section-bottom {
   padding: 80px 40px;
   width: fit-content;
-  height: 100%;
+  /* height: 100%; */
   top: auto;
   left: auto;
 }
