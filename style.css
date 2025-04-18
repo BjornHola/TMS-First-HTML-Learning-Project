@@ -5,13 +5,15 @@ html, body {
     height: 100%;
 }
 
-.main {
-    width: 100%;
-    min-height: 100%;
-    background-color: lightgrey;
+.main {  
+  width: 100%;
+  min-height: 100%;
+  background-color: lightgrey;
 }
 
 .section-top {
+  
+  padding: 60px 50px;
   width: 100%;
   max-width: 100%;
   height: 100%;
@@ -115,8 +117,8 @@ html, body {
 /*Here is Section-bottom below */
 
 .section-bottom {
-  width: 100%;
-  max-width: 100%;
+  padding: 80px 40px;
+  width: fit-content;
   height: 100%;
   top: auto;
   left: auto;
