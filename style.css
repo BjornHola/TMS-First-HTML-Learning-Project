@@ -118,7 +118,6 @@ html, body {
 .section-bottom {
   padding: 80px 40px;
   width: fit-content;
-  /* height: 100%; */
   top: auto;
   left: auto;
 }
@@ -142,13 +141,13 @@ color: #000000;
 }
 
 .expalanation__title_capitalized{
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway', serif;
   font-weight: 400;
   font-size: 25px;
   line-height: 100%;
   letter-spacing: 0%;
   text-align: center;
-  vertical-align: middle;  
+  vertical-align: middle; 
 }
 
 #separator {
@@ -201,36 +200,7 @@ text-align:center;
   text-align:center;
 }
 
-/* Дальше не стилизовано */
-/*
-.feature__title--bold {
-  width: 570px;
-  height: 40px;
-  top: -4629px;
-  left: 5171px;
-  text-align:center;
-}
 
 
-.feature__title--capitalized {
-    text-decoration: uppercase;
-    text-align: center;
-}
 
-
-  .paragraph_centered {
-    text-align:center;
-  }
-
-  
-  .paragraph p,
-  .paragraph h3 {
-    display: inline-block;
-    text-align: center;
-    width: 33%;
-    vertical-align: auto;
-  }
-
-  .image2, .image3, .image4 {
-    text-align:center;
-  }  */
+ 
